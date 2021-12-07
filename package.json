@@ -1,0 +1,25 @@
+{
+  "name": "Node-JS",
+  "version": "1.0.0",
+  "description": "There will be some tweaks (experiments) in code while following \"Node.js and Express.js - Full Course\"",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan-Goyal/Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan-Goyal/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Chetan-Goyal/Node-JS#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
